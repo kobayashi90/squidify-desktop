@@ -24,5 +24,5 @@ Grab the latest build for Linux, Windows or macOS from the
 
 - 🎵 [Squidify](https://www.squidify.org) (mirror: [squidify.net](https://www.squidify.net))
 - 📖 [Docs](https://docs.squidify.org/)
-- ❤️ [Donate](https://www.squidify.org/donate), keep the service running
+- ❤️ [Donate](https://give.calibour.com/donate/45bcfe59a820ac1e501e52d15474c89b), keep the service running
 - 🐛 [Report an issue](https://github.com/kobayashi90/squidify-desktop/issues)
