@@ -24,4 +24,4 @@ jobs:
           description: |
             Grab it from the [releases page](${{ github.event.release.html_url }}): Linux (AppImage, Flatpak), Windows (setup, MSI) and macOS (x64, arm64).
           color: 0xffffff
-          username: Squidify
+          username: GitHub
