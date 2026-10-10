@@ -1,6 +1,6 @@
 # Squidify Desktop
 
-Native desktop app for Squidify, with background playback, tray controls and Discord presence, no browser required.
+Electron-based desktop app for Squidify, with background playback, tray controls and Discord presence, no browser required.
 
 ## What is Squidify?
 
@@ -8,7 +8,7 @@ Native desktop app for Squidify, with background playback, tray controls and Dis
 
 Under the hood it runs on [Navidrome](https://www.navidrome.org/), an open source music server. Navidrome speaks the popular [Subsonic](https://www.subsonic.org/) protocol, which is why Squidify works in any browser, on mobile, and in every Subsonic-compatible client out there.
 
-This app wraps the Squidify web player in a native desktop shell (Electron):
+This app wraps the Squidify web player in an Electron-based desktop shell:
 
 - Keeps playing in the background with tray controls
 - Now-playing toast notifications
