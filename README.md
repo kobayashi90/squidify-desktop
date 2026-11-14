@@ -17,8 +17,15 @@ This app wraps the Squidify web player in an Electron-based desktop shell:
 
 ## Download
 
-Grab the latest build for Linux, Windows or macOS from the
-[Releases page](https://github.com/kobayashi90/squidify-desktop/releases).
+Grab the latest build from the
+[Releases page](https://github.com/kobayashi90/squidify-desktop/releases):
+
+- **Linux** — AppImage and Flatpak
+- **Windows** — NSIS setup and MSI
+- **macOS** — x64 and arm64 (dmg)
+- **Android** — signed release APK. The APK inlines build credentials, so it is
+  distributed as a sideload-only build and is not attached to the public release;
+  ask for the current private download link.
 
 ## Links
 
