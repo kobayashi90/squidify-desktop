@@ -24,8 +24,7 @@ Grab the latest build from the
 - **Windows** — NSIS setup and MSI
 - **macOS** — x64 and arm64 (dmg)
 - **Android** — signed release APK. The APK inlines build credentials, so it is
-  distributed as a sideload-only build and is not attached to the public release;
-  ask for the current private download link.
+  distributed as a sideload-only build.
 
 ## Links
 
